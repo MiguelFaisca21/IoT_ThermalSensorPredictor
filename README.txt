@@ -1,10 +1,14 @@
------------------- Versão Final do Projeto de Internet das Coisas -------------------------
+------------------ Final Version of IoT Thermal Predictor -------------------------
 
-Realizado por: Miguel Carvalho, nº54399 (e João Ferraz, nº49420; Hugo Consciência, nº54389)
+Made by: 
+Miguel Carvalho, nº54399;
+João Ferraz, nº49420; 
+Hugo Consciência, nº54389;
 
-Nota:
+To note:
+Both MQTTPublisher files represent a MQTT publisher implemented with a time interval of 5 and 10 seconds between
+message sending to simulate different environents, respectively. 
+Also, the .json file corresponds to the exported version code of our NODE-RED server. Import this file to NODE-RED to
+observe complete workflow.
 
-Os dois ficheiros .zip de MQTTPublishers representam cada um deles um cliente MQTT publisher que
-tem como timeout the envio de mensagens de cinco segundos e dez segundos, respetivamente.´
-
---------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
